@@ -1,4 +1,4 @@
-# HTML Email for Anvil A&S thank customer for their pre-order
+# HTML Email: Anvil A&S thanking customer for their pre-order
 
 ## Techs used:
 
