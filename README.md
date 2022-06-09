@@ -11,4 +11,4 @@ HTML, CSS
 [View Project](https://sergiomendozer.github.io/Anvil-HTML-pre-purchase-email/)
 
 ## Project Image
-<a href="url"><img src="/Pre-order.png"  height="500" width="300" ></a>
+<a href="url"><img src="/Pre-order.png"  height="500" width="330" ></a>
